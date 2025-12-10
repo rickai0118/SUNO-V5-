@@ -1,0 +1,7 @@
+{
+  "name": "Suno Architect",
+  "description": "A professional reverse-engineering and prompt creation tool for Suno V5, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
